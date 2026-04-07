@@ -26,7 +26,7 @@ st.markdown("""
         font-family: 'Playfair Display', 'Georgia', serif !important;
         color: #3f2a1e !important;
         text-align: center !important;
-        font-size: 7.5rem !important;
+        font-size: 5.5rem !important;
         font-weight: 700 !important;
         margin-bottom: 0.05rem !important;
     }
