@@ -38,11 +38,6 @@ st.markdown("""
         font-style: italic !important;
         margin-top: -30px !important;
     }
-    header {visibility: hidden;}
-
-.block-container {
-    padding-top: 1rem;
-}
 </style>
 """, unsafe_allow_html=True)
 
