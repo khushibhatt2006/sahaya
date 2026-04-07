@@ -26,7 +26,7 @@ st.markdown("""
         font-family: 'Playfair Display', 'Georgia', serif !important;
         color: #3f2a1e !important;
         text-align: center !important;
-        font-size: 5.5rem !important;
+        font-size: 4.5rem !important;
         font-weight: 700 !important;
         margin-bottom: 0.05rem !important;
     }
@@ -34,7 +34,7 @@ st.markdown("""
         font-family: 'Georgia', serif !important;
         color: #6b5c4a !important;
         text-align: center !important;
-        font-size: 1.85rem !important;
+        font-size: 1.60rem !important;
         font-style: italic !important;
         margin-top: -30px !important;
     }
