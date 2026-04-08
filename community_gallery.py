@@ -4,7 +4,7 @@ import pandas as pd
 from db import get_donations
 
 def show_community_gallery():
-    st.title("🌟 Community Proof Gallery")
+    st.title("🌟 Community Gallery")
     st.markdown("### Proof of Donations by Sahaya Team")
     st.caption("These are real proof photos of donations made by the Sahaya Team / Nagar Palika")
 
